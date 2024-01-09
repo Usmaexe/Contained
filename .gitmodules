@@ -1,0 +1,3 @@
+[submodule "ChatGptApi"]
+    path = ChatGptApi
+    url = https://github.com/Usmaexe/ChatGptApi.git
