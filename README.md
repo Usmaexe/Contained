@@ -29,7 +29,7 @@ Make sure you have Docker Desktop Running on your local machine
 
 
 ## Directory Structure
-
+    
 - `ChatGptApi/`: Contains Django application source code, templates and the endpoint 
 - `venv/`: Virtual environment for Python dependencies
 - `docker-compose.yml`: Docker Compose configuration file
@@ -48,4 +48,6 @@ It also maps the `Content.csv` file from the host to the container.
 - The CSV file is stored in the `ChatGptApi/data/` directory in the container.
 - This project is actively maintained and will be updated in the future to incorporate improvements and additional features.
 
+In case of any error on the requirement file, Run this command
+    pip freeze > requirements.txt
 
