@@ -12,7 +12,7 @@ Make sure you have Docker Desktop Running on your local machine
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/Contained.git
+    git clone https://github.com/Usmaexe/Contained.git
     cd Contained
     git ChatGptApi update --init --recursive
     ```
